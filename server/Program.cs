@@ -4,6 +4,7 @@ string myName = "Васильев Юрий";
 string myGroup = "ИСП-241";
 int myAge = 18;
 DateTime time = DateTime.Now;
+Console.WriteLine();
 Console.WriteLine($"Здравствуйте, {name}! Вас приветствует {myName} из группы {myGroup}, на вашем компьютере сейчас {time}");
 Console.WriteLine();
 Console.WriteLine("Что вы хотите обо мне узнать? Пожалуйста, выберите из этого: *Имя*, *Группа*, *Возраст*");
