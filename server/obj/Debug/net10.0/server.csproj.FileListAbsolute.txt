@@ -1,0 +1,14 @@
+/Users/yura/Documents/Lab4_ISRPO_Vasilev/server/bin/Debug/net10.0/server
+/Users/yura/Documents/Lab4_ISRPO_Vasilev/server/bin/Debug/net10.0/server.deps.json
+/Users/yura/Documents/Lab4_ISRPO_Vasilev/server/bin/Debug/net10.0/server.runtimeconfig.json
+/Users/yura/Documents/Lab4_ISRPO_Vasilev/server/bin/Debug/net10.0/server.dll
+/Users/yura/Documents/Lab4_ISRPO_Vasilev/server/bin/Debug/net10.0/server.pdb
+/Users/yura/Documents/Lab4_ISRPO_Vasilev/server/obj/Debug/net10.0/server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yura/Documents/Lab4_ISRPO_Vasilev/server/obj/Debug/net10.0/server.AssemblyInfoInputs.cache
+/Users/yura/Documents/Lab4_ISRPO_Vasilev/server/obj/Debug/net10.0/server.AssemblyInfo.cs
+/Users/yura/Documents/Lab4_ISRPO_Vasilev/server/obj/Debug/net10.0/server.csproj.CoreCompileInputs.cache
+/Users/yura/Documents/Lab4_ISRPO_Vasilev/server/obj/Debug/net10.0/server.dll
+/Users/yura/Documents/Lab4_ISRPO_Vasilev/server/obj/Debug/net10.0/refint/server.dll
+/Users/yura/Documents/Lab4_ISRPO_Vasilev/server/obj/Debug/net10.0/server.pdb
+/Users/yura/Documents/Lab4_ISRPO_Vasilev/server/obj/Debug/net10.0/server.genruntimeconfig.cache
+/Users/yura/Documents/Lab4_ISRPO_Vasilev/server/obj/Debug/net10.0/ref/server.dll
